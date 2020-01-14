@@ -1,0 +1,45 @@
+#tagline-name {
+    text-align: center;
+}
+
+#name-link {
+    text-decoration: underline silver;
+    font-weight: bold;
+    font-size: 50px;
+    color: green;
+}
+
+
+#tagline__tag {
+    text-align: center;
+    font-size: 40px;
+    color: #d81717;
+}
+
+
+#profile-pic {
+    width: 300px;
+    transition: ease-in-out;
+}
+
+#profile-pic:hover {
+    border: 3px dashed rgb(179, 39, 207);
+}
+
+#github-link {
+    color: rgb(46, 58, 46);
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#github {
+    text-align: center;
+}
+
+#github-link:hover {
+    color: orangered;
+}
+
